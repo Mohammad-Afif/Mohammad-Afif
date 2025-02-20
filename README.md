@@ -5,25 +5,25 @@
 <hr>
 I'm from in Bangladesh, I am a student of <a href="https://ndc.edu.bd/" >Notre Dame College</a>. Currently I completing my intermediate (HSC) here.
 <br></br>
-Apart from that, I am love to represent myself as a tech enthusiast and I also love to write articles and blogs (on Web Development, App development, Cybersecurity and Linux Tips) and contributing to open source. 
+Apart from that, I love to represent myself as a tech enthusiast and I also love to write articles and blogs (on Web Development, App development, Cybersecurity and Linux Tips) and contributing to open source. 
 <br></br>
 
-I also satisfied to my team of couple of members where we do freelancing and provide many services to our clients.
+I also have team of couple of members where we do freelancing and provide many services to our clients.
 <br></br>
 
-**My Research Interest**:
+**My Learning Interest**:
 - Blockchain
-- Machine Learning
-- Virtual Reality
-- Web3 Development
+- Blogging
+- SEO Optimization
+- Full Web Development
 - Cybersecurity
 
- **I am open to**:
+ **I am available for**:
 
 - any collaboration work,
 - web development projects,
 - SEO optimization and blogging,
-- available to become your bug hunter.
+- others freelancing work.
 
 ## Skills:
 
