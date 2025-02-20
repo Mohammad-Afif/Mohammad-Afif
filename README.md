@@ -1,6 +1,6 @@
 
 
-![Banner](https://raw.githubusercontent.com/Mohammad-Afif/Mohammad-Afif/refs/heads/main/image.pngl)
+![Banner](https://raw.githubusercontent.com/Mohammad-Afif/Mohammad-Afif/refs/heads/main/image.png)
 <h4 align="center">✨ Step Into the Future of Tech!</h4>
 <hr>
 I'm from in Bangladesh, I am a student of <a href="https://www.narayanganj.gov.bd/bn/site/education_institute/Sfvk-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%A4%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%95%E0%A6%B2%E0%A7%87%E0%A6%9C-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A6%A3%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C" >Tolaram College</a>. Currently I completing my intermediate (HSC) here.
